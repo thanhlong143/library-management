@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\thanh\\documents\\workspace\\librarymanagementsystem\\librarymanagementsystem\\sql scripts\\sql_scripts.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\sql scripts\\sql_scripts.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\thanh\\documents\\workspace\\librarymanagementsystem\\librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,31 +51,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\App.config",
+              "RelativeToolTip": "LibraryManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-22T12:54:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SQL_Scripts.sql",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
               "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
               "RelativeToolTip": "LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-08-22T12:44:58.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ViewBooks.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooks.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\ViewBooks.cs",
               "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooks.cs [Design]",
               "RelativeToolTip": "LibraryManagementSystem\\ViewBooks.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:39:36.299Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-22T12:39:36.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserProfile.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\UserProfile.cs",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserDashBoard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\UserDashBoard.cs",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ReportBookError.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ReportBookError.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\ReportBookError.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DashBoard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\DashBoard.cs",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ErrorBookList.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ErrorBookList.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\ErrorBookList.cs",
@@ -126,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\FormLogin.cs",

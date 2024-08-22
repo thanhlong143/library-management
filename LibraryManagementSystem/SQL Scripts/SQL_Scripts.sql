@@ -54,7 +54,7 @@ INSERT INTO Users (Username, Address, PhoneNumber, Orderdetails, Password) VALUE
   (N'Vũ Thị K', N'707 Đường ABC, Quận 10, TP.HCM', '0456789123', N'Chi tiết đơn hàng 10', 'password10');
 GO
 INSERT INTO Users (Username, Address, PhoneNumber, Password, type) VALUES
-  (N'Admin', N'123 Đường ABC, Quận 1, TP.HCM', '0868133811', 'adminpass', 1)
+  (N'Admin', N'123 Đường ABC, Quận 1, TP.HCM', '0129834765', 'Adm1n', 1)
 go
 
 --AUTHORS
