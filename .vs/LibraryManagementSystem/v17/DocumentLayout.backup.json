@@ -3,104 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\thanh\\documents\\workspace\\librarymanagementsystem\\librarymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\thanh\\documents\\workspace\\librarymanagementsystem\\librarymanagementsystem\\sql scripts\\sql_scripts.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\sql scripts\\sql_scripts.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\userdashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userdashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\sql scripts\\sql_scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\sql scripts\\sql_scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\formviewborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\formviewborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\formviewborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\formviewborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\thanh\\documents\\workspace\\librarymanagementsystem\\librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\reportbookerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\reportbookerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\errorbooklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\errorbooklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\errorbooklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\errorbooklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\viewstudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\viewstudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\reportbookerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\reportbookerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\librarymanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656E67C4-FDE4-4799-85ED-A5DF152413B1}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -115,297 +47,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\App.config",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\App.config",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\App.config",
-              "RelativeToolTip": "LibraryManagementSystem\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-22T12:30:19.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDashBoard.resx",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.resx",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserDashBoard.resx",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.resx",
-              "RelativeToolTip": "LibraryManagementSystem\\UserDashBoard.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-22T12:27:52.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "SQL_Scripts.sql",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
               "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
               "RelativeToolTip": "LibraryManagementSystem\\SQL Scripts\\SQL_Scripts.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
-              "WhenOpened": "2024-08-22T12:27:53.473Z"
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T12:44:58.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormViewBorrow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormViewBorrow.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\FormViewBorrow.cs",
-              "ToolTip": "C:\\Users\\thanh\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\FormViewBorrow.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\FormViewBorrow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.474Z"
+              "DocumentIndex": 1,
+              "Title": "ViewBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ViewBooks.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooks.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\ViewBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:36.299Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserDashBoard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserDashBoard.cs",
-              "ToolTip": "C:\\Users\\thanh\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.475Z"
+              "Title": "UserProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\UserProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:34.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserDashBoard.cs",
+              "Title": "UserDashBoard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\UserDashBoard.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\UserDashBoard.cs",
-              "ViewState": "AQIAAIEBAAAAAAAAAAAiwKYBAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.475Z"
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserDashBoard.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\UserDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:30.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportBookError.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ReportBookError.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReportBookError.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ReportBookError.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\ReportBookError.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:29.208Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FormViewBorrow.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormViewBorrow.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\FormViewBorrow.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormViewBorrow.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\FormViewBorrow.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAYwKUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.476Z"
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:26.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorBookList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ErrorBookList.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ErrorBookList.cs",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ErrorBookList.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\ErrorBookList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:39:25.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\UserProfile.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAM4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ViewBooks.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooks.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\ViewBooks.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewBooks.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\ViewBooks.cs",
-              "ViewState": "AQIAAPEAAAAAAAAAAAAAAAoBAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\FormLogin.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAADcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DashBoard.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DashBoard.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DashBoard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsBAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ErrorBookList.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ErrorBookList.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\ErrorBookList.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ErrorBookList.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\ErrorBookList.cs",
-              "ViewState": "AQIAACcBAAAAAAAAAAAAAEcAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\thanh\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\thanh\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\UserProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ViewStudentInfo.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewStudentInfo.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\ViewStudentInfo.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ViewStudentInfo.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\ViewStudentInfo.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DashBoard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DashBoard.cs",
-              "ToolTip": "C:\\Users\\thanh\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\DashBoard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Account.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Account.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Account.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Account.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\FormLogin.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\FormLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Author.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Author.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Author.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Books.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Books.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Books.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Books.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Books.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Borrow.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Borrow.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Borrow.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Borrow.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Borrow.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Category.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Category.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Category.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Loan.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Loan.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Loan.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Loan.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Reporting.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Reporting.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\DTO\\Reporting.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\DTO\\Reporting.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\DTO\\Reporting.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T12:27:53.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ReportBookError.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ReportBookError.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReportBookError.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\ReportBookError.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\ReportBookError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AddBook.cs",
-              "DocumentMoniker": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\AddBook.cs",
-              "ToolTip": "C:\\Users\\thanh\\Documents\\Workspace\\LibraryManagementSystem\\LibraryManagementSystem\\AddBook.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\AddBook.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-22T12:27:53.486Z"
+              "WhenOpened": "2024-08-22T12:39:20.894Z"
             }
           ]
         }
