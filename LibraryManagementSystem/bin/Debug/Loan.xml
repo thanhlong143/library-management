@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Loan>
+    <Mã_x0020_Hóa_x0020_Đơn>2</Mã_x0020_Hóa_x0020_Đơn>
+    <Mã_x0020_Người_x0020_Mượn>1</Mã_x0020_Người_x0020_Mượn>
+    <Tên_x0020_Người_x0020_Mượn>Nguyễn Văn A</Tên_x0020_Người_x0020_Mượn>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0123456789</Số_x0020_Điện_x0020_Thoại>
+    <Tên_x0020_Sách>Thám Tử Lừng Danh Conan - Tập 1</Tên_x0020_Sách>
+    <Kệ_x0020_Số>4</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Ngày_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Mượn>
+    <Số_x0020_Lượng_x0020_Mượn>1</Số_x0020_Lượng_x0020_Mượn>
+    <Ngày_x0020_Được_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Được_x0020_Mượn>
+    <Hạn_x0020_Trả>2023-12-06T00:00:00+07:00</Hạn_x0020_Trả>
+    <Ngày_x0020_Trả>9998-12-31T00:00:00+07:00</Ngày_x0020_Trả>
+    <Phạt>0</Phạt>
+    <Trạng_x0020_Thái>Chưa Trả</Trạng_x0020_Thái>
+  </Loan>
+  <Loan>
+    <Mã_x0020_Hóa_x0020_Đơn>3</Mã_x0020_Hóa_x0020_Đơn>
+    <Mã_x0020_Người_x0020_Mượn>1</Mã_x0020_Người_x0020_Mượn>
+    <Tên_x0020_Người_x0020_Mượn>Nguyễn Văn A</Tên_x0020_Người_x0020_Mượn>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0123456789</Số_x0020_Điện_x0020_Thoại>
+    <Tên_x0020_Sách>Tuyển Tập Nam Cao (2023)</Tên_x0020_Sách>
+    <Kệ_x0020_Số>2</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Ngày_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Mượn>
+    <Số_x0020_Lượng_x0020_Mượn>1</Số_x0020_Lượng_x0020_Mượn>
+    <Ngày_x0020_Được_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Được_x0020_Mượn>
+    <Hạn_x0020_Trả>2023-12-06T00:00:00+07:00</Hạn_x0020_Trả>
+    <Ngày_x0020_Trả>9998-12-31T00:00:00+07:00</Ngày_x0020_Trả>
+    <Phạt>0</Phạt>
+    <Trạng_x0020_Thái>Chưa Trả</Trạng_x0020_Thái>
+  </Loan>
+  <Loan>
+    <Mã_x0020_Hóa_x0020_Đơn>4</Mã_x0020_Hóa_x0020_Đơn>
+    <Mã_x0020_Người_x0020_Mượn>1</Mã_x0020_Người_x0020_Mượn>
+    <Tên_x0020_Người_x0020_Mượn>Nguyễn Văn A</Tên_x0020_Người_x0020_Mượn>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0123456789</Số_x0020_Điện_x0020_Thoại>
+    <Tên_x0020_Sách>Tuyển Tập Nam Cao (2023)</Tên_x0020_Sách>
+    <Kệ_x0020_Số>2</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Ngày_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Mượn>
+    <Số_x0020_Lượng_x0020_Mượn>9</Số_x0020_Lượng_x0020_Mượn>
+    <Ngày_x0020_Được_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Được_x0020_Mượn>
+    <Hạn_x0020_Trả>2023-12-06T00:00:00+07:00</Hạn_x0020_Trả>
+    <Ngày_x0020_Trả>9998-12-31T00:00:00+07:00</Ngày_x0020_Trả>
+    <Phạt>0</Phạt>
+    <Trạng_x0020_Thái>Chưa Trả</Trạng_x0020_Thái>
+  </Loan>
+  <Loan>
+    <Mã_x0020_Hóa_x0020_Đơn>5</Mã_x0020_Hóa_x0020_Đơn>
+    <Mã_x0020_Người_x0020_Mượn>1</Mã_x0020_Người_x0020_Mượn>
+    <Tên_x0020_Người_x0020_Mượn>Nguyễn Văn A</Tên_x0020_Người_x0020_Mượn>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0123456789</Số_x0020_Điện_x0020_Thoại>
+    <Tên_x0020_Sách>Thám Tử Lừng Danh Conan - Tập 1</Tên_x0020_Sách>
+    <Kệ_x0020_Số>4</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Ngày_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Mượn>
+    <Số_x0020_Lượng_x0020_Mượn>9</Số_x0020_Lượng_x0020_Mượn>
+    <Ngày_x0020_Được_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Được_x0020_Mượn>
+    <Hạn_x0020_Trả>2023-12-06T00:00:00+07:00</Hạn_x0020_Trả>
+    <Ngày_x0020_Trả>9998-12-31T00:00:00+07:00</Ngày_x0020_Trả>
+    <Phạt>0</Phạt>
+    <Trạng_x0020_Thái>Chưa Trả</Trạng_x0020_Thái>
+  </Loan>
+  <Loan>
+    <Mã_x0020_Hóa_x0020_Đơn>6</Mã_x0020_Hóa_x0020_Đơn>
+    <Mã_x0020_Người_x0020_Mượn>1</Mã_x0020_Người_x0020_Mượn>
+    <Tên_x0020_Người_x0020_Mượn>Nguyễn Văn A</Tên_x0020_Người_x0020_Mượn>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0123456789</Số_x0020_Điện_x0020_Thoại>
+    <Tên_x0020_Sách>Harry Potter and the philosopher s Stone</Tên_x0020_Sách>
+    <Kệ_x0020_Số>1</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Ngày_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Mượn>
+    <Số_x0020_Lượng_x0020_Mượn>10</Số_x0020_Lượng_x0020_Mượn>
+    <Ngày_x0020_Được_x0020_Mượn>2023-11-21T00:00:00+07:00</Ngày_x0020_Được_x0020_Mượn>
+    <Hạn_x0020_Trả>2023-12-06T00:00:00+07:00</Hạn_x0020_Trả>
+    <Ngày_x0020_Trả>9998-12-31T00:00:00+07:00</Ngày_x0020_Trả>
+    <Phạt>0</Phạt>
+    <Trạng_x0020_Thái>Chưa Trả</Trạng_x0020_Thái>
+  </Loan>
+</NewDataSet>

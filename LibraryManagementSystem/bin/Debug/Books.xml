@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Books>
+    <Mã_x0020_Sách>1</Mã_x0020_Sách>
+    <Tên_x0020_Sách>Harry Potter and the philosopher s Stone</Tên_x0020_Sách>
+    <Kệ_x0020_Số>1</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Tác_x0020_Giả>J K Rowling</Tác_x0020_Giả>
+    <Danh_x0020_Mục>Tiểu thuyết</Danh_x0020_Mục>
+    <Ngày_x0020_Xuất_x0020_Bản>2001-11-16T00:00:00+07:00</Ngày_x0020_Xuất_x0020_Bản>
+    <Mô_x0020_Tả>Harry Potter, an eleven-year-old orphan, discovers that he is a wizard and is invited to study at Hogwarts. Even as he escapes a dreary life and enters a world of magic, he finds trouble awaiting him.</Mô_x0020_Tả>
+    <Số_x0020_Lượng>10</Số_x0020_Lượng>
+    <Ảnh>harrypotter1.jpg</Ảnh>
+  </Books>
+  <Books>
+    <Mã_x0020_Sách>2</Mã_x0020_Sách>
+    <Tên_x0020_Sách>Cách Mạng Ruộng Đất Ở Việt Nam</Tên_x0020_Sách>
+    <Kệ_x0020_Số>1</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Tác_x0020_Giả>Viện Kinh tế Việt Nam</Tác_x0020_Giả>
+    <Danh_x0020_Mục>Khoa học</Danh_x0020_Mục>
+    <Ngày_x0020_Xuất_x0020_Bản>2021-11-20T00:00:00+07:00</Ngày_x0020_Xuất_x0020_Bản>
+    <Mô_x0020_Tả>Đến hết thế kỷ XX, có thể nói, xã hội Việt Nam vẫn là một xã hội chịu sự chi phối của ba yếu tố nông thôn – nông nghiệp – nông dân. Chế độ ruộng đất là một vấn đề “hằng xuyên” trong lịch sử Việt Nam. Mọi biến động về chế độ ruộng đất đều ảnh hưởng lớn đến cấu trúc và sự phát triển của xã hội. Vì vậy, đây là mảng đề tài luôn được các nhà Sử học, Kinh tế học Việt Nam quan tâm nghiên cứu.</Mô_x0020_Tả>
+    <Số_x0020_Lượng>10</Số_x0020_Lượng>
+    <Ảnh>cmruongdatvn.jpg</Ảnh>
+  </Books>
+  <Books>
+    <Mã_x0020_Sách>3</Mã_x0020_Sách>
+    <Tên_x0020_Sách>Tuyển Tập Nam Cao (2023)</Tên_x0020_Sách>
+    <Kệ_x0020_Số>2</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Tác_x0020_Giả>Nam Cao</Tác_x0020_Giả>
+    <Danh_x0020_Mục>Tiểu thuyết</Danh_x0020_Mục>
+    <Ngày_x0020_Xuất_x0020_Bản>2023-01-01T00:00:00+07:00</Ngày_x0020_Xuất_x0020_Bản>
+    <Mô_x0020_Tả>Tuyển tập Nam Cao” xin giới thiệu tới quý độc giả những sáng tác tiêu biểu nhất của nhà văn Nam Cao: Chí Phèo; Đời thừa; Sống mòn; Tư cách mõ; Quên điều độ; Lang rận; Nhìn người ta sung sướng; Lão Hạc… và nhiều truyện ngắn khác.</Mô_x0020_Tả>
+    <Số_x0020_Lượng>10</Số_x0020_Lượng>
+    <Ảnh>namcao.jpg</Ảnh>
+  </Books>
+  <Books>
+    <Mã_x0020_Sách>4</Mã_x0020_Sách>
+    <Tên_x0020_Sách>Nhà giả kim</Tên_x0020_Sách>
+    <Kệ_x0020_Số>3</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Tác_x0020_Giả>Paulo Coelho</Tác_x0020_Giả>
+    <Danh_x0020_Mục>Tiểu thuyết</Danh_x0020_Mục>
+    <Ngày_x0020_Xuất_x0020_Bản>1988-02-05T00:00:00+07:00</Ngày_x0020_Xuất_x0020_Bản>
+    <Mô_x0020_Tả>Nhà giả kim (tựa gốc tiếng Bồ Đào Nha: O Alquimista) là tiểu thuyết được xuất bản lần đầu ở Brasil năm 1988, và là cuốn sách nổi tiếng nhất của nhà văn Paulo Coelho. Tác phẩm đã được dịch ra 67 ngôn ngữ và bán ra tới 95 triệu bản (theo thống kê ngày 19 tháng 5 năm 2008), trở thành một trong những cuốn sách bán chạy nhất mọi thời đại.</Mô_x0020_Tả>
+    <Số_x0020_Lượng>10</Số_x0020_Lượng>
+    <Ảnh>nhagiakim.jpg</Ảnh>
+  </Books>
+  <Books>
+    <Mã_x0020_Sách>5</Mã_x0020_Sách>
+    <Tên_x0020_Sách>Thám Tử Lừng Danh Conan - Tập 1</Tên_x0020_Sách>
+    <Kệ_x0020_Số>4</Kệ_x0020_Số>
+    <Tầng>1</Tầng>
+    <Tác_x0020_Giả>Gosho Aoyama</Tác_x0020_Giả>
+    <Danh_x0020_Mục>Trinh thám</Danh_x0020_Mục>
+    <Ngày_x0020_Xuất_x0020_Bản>2017-12-30T00:00:00+07:00</Ngày_x0020_Xuất_x0020_Bản>
+    <Mô_x0020_Tả>Nhân vật chính của truyện là một thám tử học sinh trung học có tên là Kudo Shinichi - thám tử học đường xuất sắc - một lần bị bọn tội phạm ép uống thuốc độc và bị teo nhỏ thành học sinh tiểu học lấy tên là Conan Edogawa và luôn cố gắng truy tìm tung tích tổ chức Áo Đen nhằm lấy lại hình dáng cũ.</Mô_x0020_Tả>
+    <Số_x0020_Lượng>10</Số_x0020_Lượng>
+    <Ảnh>conan.jpg</Ảnh>
+  </Books>
+</NewDataSet>

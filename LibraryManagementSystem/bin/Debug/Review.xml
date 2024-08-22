@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Review>
+    <BookID>1</BookID>
+    <BookName>Sách Học Ta</BookName>
+    <AuthorName>Không rõ tác</AuthorName>
+    <CategoryName>Sách Lậpp</CategoryName>
+    <Date_publication>2000-02-02T00:00:00+07:00</Date_publication>
+    <Descriptions>Không có mô tả</Descriptions>
+    <Quantity>80</Quantity>
+  </Review>
+  <Review>
+    <BookID>2</BookID>
+    <BookName>Sách Học Taa</BookName>
+    <AuthorName>Không rõ tác gia</AuthorName>
+    <CategoryName>Sách Lập</CategoryName>
+    <Date_publication>2000-02-02T00:00:00+07:00</Date_publication>
+    <Descriptions>Không có mô tả</Descriptions>
+    <Quantity>20</Quantity>
+  </Review>
+  <Review>
+    <BookID>3</BookID>
+    <BookName>Sách 1 </BookName>
+    <AuthorName>Nguẽn Thanh </AuthorName>
+    <CategoryName>Jhoa Hoạc </CategoryName>
+    <Date_publication>2000-11-14T00:00:00+07:00</Date_publication>
+    <Descriptions>Mô Tăe </Descriptions>
+    <Quantity>1</Quantity>
+  </Review>
+  <Review>
+    <BookID>4</BookID>
+    <BookName>Sách Học Tapppp</BookName>
+    <AuthorName>Không rõ tác gia</AuthorName>
+    <CategoryName>Sách Lập</CategoryName>
+    <Date_publication>2023-11-14T00:00:00+07:00</Date_publication>
+    <Descriptions>Không có mô tả</Descriptions>
+    <Quantity>10</Quantity>
+  </Review>
+  <Review>
+    <BookID>5</BookID>
+    <BookName>Sách Học Tasadp</BookName>
+    <AuthorName>Không rõ tác gia</AuthorName>
+    <CategoryName>Sách Lập</CategoryName>
+    <Date_publication>2000-02-02T00:00:00+07:00</Date_publication>
+    <Descriptions>Không có mô tả</Descriptions>
+    <Quantity>10</Quantity>
+  </Review>
+  <Review>
+    <BookID>6</BookID>
+    <BookName />
+    <AuthorName />
+    <CategoryName />
+    <Date_publication>2023-11-14T00:00:00+07:00</Date_publication>
+    <Descriptions />
+    <Quantity>0</Quantity>
+  </Review>
+</NewDataSet>

@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>1</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Nguyễn Văn A</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0123456788</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 1</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password1</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>2</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Trần Thị B</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>456 Đường XYZ, Quận 2, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0987654321</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 2</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password2</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>3</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Lê Văn</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>789 Đường DEF, Quận 3, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0345678901</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 3</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password3</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>4</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Hồ Thị D</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>101 Đường HIJ, Quận 4, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0765432190</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 4</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password4</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>5</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Phạm Văn</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>202 Đường LMN, Quận 5, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0567890123</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 5</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password5</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>6</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Đặng Thị F</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>303 Đường OPQ, Quận 6, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0234567891</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 6</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password6</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>7</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Bùi Văn G</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>404 Đường RST, Quận 7, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0456789012</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 7</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password7</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>8</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Mai Thị H</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>505 Đường UVW, Quận 8, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0890123456</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 8</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password8</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>9</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Hoàng Văn I</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>606 Đường XYZ, Quận 9, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0678901234</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 9</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password9</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>10</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Vũ Thị K</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>707 Đường ABC, Quận 10, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0456789123</Số_x0020_Điện_x0020_Thoại>
+    <Thông_x0020_Tin_x0020_Mượn>Chi tiết đơn hàng 10</Thông_x0020_Tin_x0020_Mượn>
+    <Mật_x0020_Khẩu>password10</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>11</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>Admin</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>123 Đường ABC, Quận 1, TP.HCM</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>0868133811</Số_x0020_Điện_x0020_Thoại>
+    <Mật_x0020_Khẩu>adminpass</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>12</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>asdf</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>dfg</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>1234567890</Số_x0020_Điện_x0020_Thoại>
+    <Mật_x0020_Khẩu>sdfg</Mật_x0020_Khẩu>
+  </Users>
+  <Users>
+    <Mã_x0020_Sinh_x0020_Viên>13</Mã_x0020_Sinh_x0020_Viên>
+    <Tên_x0020_Sinh_x0020_Viên>wert</Tên_x0020_Sinh_x0020_Viên>
+    <Địa_x0020_Chỉ>2345</Địa_x0020_Chỉ>
+    <Số_x0020_Điện_x0020_Thoại>1234567887</Số_x0020_Điện_x0020_Thoại>
+    <Mật_x0020_Khẩu>dfg</Mật_x0020_Khẩu>
+  </Users>
+</NewDataSet>
